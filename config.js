@@ -17,11 +17,11 @@ global.statusseen = true;                 //This is the new variable for control
 
 
 //
-global.Owner = ["8801975492880","8801928502256"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["8801975492880","8801928502256"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["8801975492880"];
-global.OwnerName = "Slasher";
-global.BotName = "XLICON-MD";
+global.Owner = ["2348061212348","2348061212348"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["2348061212348","2348061212348"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["2348061212348"];
+global.OwnerName = "Destiny";
+global.BotName = "Dhex tiny Bot";
 global.packname = "X-2.0 Bot";                             //Do not change.
 global.author = "By: Slasher";                               //Do not change.
 global.BotSourceCode = "https://github.com/ahil15/Xlicon-v2"; //Do not change.
@@ -33,8 +33,8 @@ global.sessionName = "session";                          //Do not change.
 
 
 //
-global.prefa = ["."];                                    //Default prefix here.
-global.openAiAPI = "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";
+global.prefa = ["!"];                                    //Default prefix here.
+global.openAiAPI ="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";
 
 
 //
